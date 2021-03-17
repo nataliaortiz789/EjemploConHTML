@@ -1,0 +1,43 @@
+form{
+
+	width: 80%;
+	border: 1px solid #ccc;
+	margin: 20px;
+	padding: 20px;
+	margin-left: 10%;
+	background: #FFE4C4;
+}
+
+.container{
+	text-align: center;
+
+}
+
+label{
+
+	display: block;
+
+}
+
+input, textarea{
+
+	margin-bottom: 20px;
+	width: 80%;
+	height: 100%;
+
+
+}
+
+input[type="submit"]{
+	margin-bottom: 10px;
+	background: #800080;
+	color: #fff;
+	border: none;
+}
+
+input[type="button"]{
+	margin-bottom: 10px;
+	background: #800080;
+	color: #fff;
+	border: none;
+}

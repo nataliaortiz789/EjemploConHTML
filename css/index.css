@@ -1,0 +1,52 @@
+.container{
+ 	background: #F0F8FF;
+
+}
+
+header{
+	
+	color: black;
+	border: 2px solid #F08080;
+
+}
+#titulo{
+	margin-top: 5%;
+	text-align: right;
+}
+.img{
+	text-align: center;
+	margin: 3%;
+	
+}
+
+article{
+
+	text-align: justify;
+	margin: 5%;
+}
+
+#separador, #cancion{
+	margin: 5%;
+	border: 2px solid #F08080;
+	text-align: center;
+	background:#FFE4C4;
+}
+
+#columna{
+	color: #800080;
+	width: 100%;
+	text-align: center;
+}
+
+table{
+	background:#FFE4C4;
+	text-align: center;
+	border: 2px solid #F08080;
+
+}
+
+#form{
+	
+	margin: 10px;
+}
+
